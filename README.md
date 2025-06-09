@@ -74,5 +74,5 @@ This project demonstrates an end-to-end data engineering workflow using **Azure 
 ## 🔗 References
 
 - [Azure Data Factory Documentation for copying data from http source ](https://learn.microsoft.com/en-us/azure/data-factory/connector-http?tabs=data-factory)
-- [Mounting ADLS in Notebooks]((https://learn.microsoft.com/en-us/azure/databricks/dbfs/mounts)
+- [Mounting ADLS in Notebooks](https://learn.microsoft.com/en-us/azure/databricks/dbfs/mounts)
 - [Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/)
